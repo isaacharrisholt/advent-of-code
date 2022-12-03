@@ -21,7 +21,7 @@ paid.
 If I am unable to complete a puzzle in a language, I will skip instead try to
 solve it in another language.
 
-<detail>
+<details>
 <summary>Languages by day</summary>
 
 | Day | Language                     | Notes                                                                                       |
@@ -30,4 +30,4 @@ solve it in another language.
 | 2   | [Scratch](./2022/day_2)      |                                                                                             |
 | 3   | [Ladder Logic](./2022/day_3) | Ladder logic doesn't have great support for text manipulation.<br>Completed day 3 in Python |
 
-</detail>
+</details>
