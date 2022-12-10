@@ -24,11 +24,12 @@ solve it in another language.
 <details>
 <summary>Languages by day</summary>
 
-| Day | Language                     | Notes                                                                                       |
-|-----|------------------------------|---------------------------------------------------------------------------------------------|
-| 1   | [Awk](./2022/day_1)          |                                                                                             |
-| 2   | [Scratch](./2022/day_2)      |                                                                                             |
-| 3   | [Ladder Logic](./2022/day_3) | Ladder Logic doesn't have great support for text manipulation.<br>Completed day 3 in Python |
-| 4   | [JavaScript](./2022/day_4)   |                                                                                             |
+| Day | Language                     | Notes                                                                                                                   |
+|-----|------------------------------|-------------------------------------------------------------------------------------------------------------------------|
+| 1   | [Awk](./2022/day_1)          |                                                                                                                         |
+| 2   | [Scratch](./2022/day_2)      |                                                                                                                         |
+| 3   | [Ladder Logic](./2022/day_3) | Ladder Logic doesn't have great support for text manipulation.<br>Completed day 3 in Python                             |
+| 4   | [JavaScript](./2022/day_4)   |                                                                                                                         |
+| 5   | [AutoIt](./2022/day_5)       | I missed quite a few days due to other engagements, so I completed the next few in Python to get them done more quickly |
 
 </details>
