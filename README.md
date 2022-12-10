@@ -32,5 +32,6 @@ solve it in another language.
 | 4   | [JavaScript](./2022/day_4)   |                                                                                                                         |
 | 5   | [AutoIt](./2022/day_5)       | I missed quite a few days due to other engagements, so I completed the next few in Python to get them done more quickly |
 | 6   | [ABAP](./2022/day_6)         | Completed in Python                                                                                                     |
+| 7   | [Lua](./2022/day_7)          | Completed in Python. I really enjoyed this challenge, though!                                                           |
 
 </details>
