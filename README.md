@@ -18,8 +18,8 @@ as the flexibility of the language. For example, I've removed CSS because it's
 not Turing complete without a preprocessor and HTML, and MATLAB because it's
 paid.
 
-If I am unable to complete a puzzle in a language, I will skip instead try to
-solve it in another language.
+If I am unable to complete a puzzle in a language, I will instead try to solve
+it in another language.
 
 <details>
 <summary>Languages by day</summary>
