@@ -24,15 +24,16 @@ it in another language.
 <details>
 <summary>Languages by day</summary>
 
-| Day | Randomised Language          | Notes                                                                                                                      |
-|-----|------------------------------|----------------------------------------------------------------------------------------------------------------------------|
-| 1   | [Awk](./2022/day_1)          |                                                                                                                            |
-| 2   | [Scratch](./2022/day_2)      |                                                                                                                            |
-| 3   | [Ladder Logic](./2022/day_3) | Ladder Logic doesn't have great support for text manipulation.<br>Completed day 3 in Python                                |
-| 4   | [JavaScript](./2022/day_4)   |                                                                                                                            |
-| 5   | [AutoIt](./2022/day_5)       | I missed quite a few days due to other engagements, so I completed the next few in Python to get them done on the same day |
-| 6   | [ABAP](./2022/day_6)         | Completed in Python                                                                                                        |
-| 7   | [Lua](./2022/day_7)          | Completed in Python. I really enjoyed this challenge, though!                                                              |
-| 8   | [Ada](./2022/day_8)          | Completed in Python. This one caused me more trouble than I care to admit!                                                 |
+| Day | Randomised Language          | Notes                                                                                                                                          |
+|-----|------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | [Awk](./2022/day_1)          |                                                                                                                                                |
+| 2   | [Scratch](./2022/day_2)      |                                                                                                                                                |
+| 3   | [Ladder Logic](./2022/day_3) | Ladder Logic doesn't have great support for text manipulation.<br>Completed day 3 in Python                                                    |
+| 4   | [JavaScript](./2022/day_4)   |                                                                                                                                                |
+| 5   | [AutoIt](./2022/day_5)       | I missed quite a few days due to other engagements, so I completed the next few in Python to get them done on the same day                     |
+| 6   | [ABAP](./2022/day_6)         | Completed in Python                                                                                                                            |
+| 7   | [Lua](./2022/day_7)          | Completed in Python. I really enjoyed this challenge, though!                                                                                  |
+| 8   | [Ada](./2022/day_8)          | Completed in Python. This one caused me more trouble than I care to admit!                                                                     |
+| 9   | [CoffeeScript](./2022/day_9) | Completed in Python. I actually found part 2 of this one quite difficult! Got there in the end though, with the help of a handy debug renderer |
 
 </details>
