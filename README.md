@@ -35,5 +35,6 @@ it in another language.
 | 7   | [Lua](./2022/day_7)          | Completed in Python. I really enjoyed this challenge, though!                                                                                  |
 | 8   | [Ada](./2022/day_8)          | Completed in Python. This one caused me more trouble than I care to admit!                                                                     |
 | 9   | [CoffeeScript](./2022/day_9) | Completed in Python. I actually found part 2 of this one quite difficult! Got there in the end though, with the help of a handy debug renderer |
+| 10  | [Objective-C](./2022/day_10) | Completed in Python. I really enjoyed this one! I thought the concept was really interesting.                                                  |
 
 </details>
