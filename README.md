@@ -37,5 +37,6 @@ it in another language.
 | 9   | [CoffeeScript](./2022/day_9) | Completed in Python. I actually found part 2 of this one quite difficult! Got there in the end though, with the help of a handy debug renderer                                                                                                           |
 | 10  | [Objective-C](./2022/day_10) | Completed in Python. I really enjoyed this one! I thought the concept was really interesting.                                                                                                                                                            |
 | 11  | [Prolog](./2022/day_10)      | Completed in Python. This was really, really tricky to get part 2. I eventually read about [the congruence modulo](https://www.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/congruence-modulo) and got it figured out though. |
+| 12  | [C#](./2022/day_12)          | I'm not sure I'm going to be able to do any new languages. This one took me a few goes, and I tried a DFS and A* before trying BFS. I left my A* attempt in the repo for funsies!                                                                        |
 
 </details>
