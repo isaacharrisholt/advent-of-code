@@ -39,5 +39,6 @@ it in another language.
 | 11  | [Prolog](./2022/day_10)      | Completed in Python. This was really, really tricky to get part 2. I eventually read about [the congruence modulo](https://www.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/congruence-modulo) and got it figured out though. |
 | 12  | [C#](./2022/day_12)          | I'm not sure I'm going to be able to do any new languages. This one took me a few goes, and I tried a DFS and A* before trying BFS. I left my A* attempt in the repo for funsies!                                                                        |
 | 13  | [Rust](./2022/day_13)        | I'm learning Rust at the moment, so I would have <em>loved</em> to do it in Rust, but I didn't have much time. I found it quite simple in Python, and would like to try re-implementing in Rust in the future.                                           |
+| 14  | [Scheme](./2022/day_14)      | Completed in Python.                                                                                                                                                                                                                                     |
 
 </details>
